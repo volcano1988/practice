@@ -1,6 +1,6 @@
 package com.cc.leetcode;
 
-import base.ListNode;
+import com.cc.common.base.ListNode;
 
 /**
  * @author cuilongcan <cui.longcan@chinaott.onaliyun.net>

@@ -2,7 +2,6 @@ package com.cc.service.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringBootConfiguration;
-import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootConfiguration
 public class ServiceApplication {
