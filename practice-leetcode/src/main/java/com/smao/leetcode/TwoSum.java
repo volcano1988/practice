@@ -1,4 +1,4 @@
-package com.sm.leetcode;
+package com.smao.leetcode;
 
 /**
  * @author cuilongcan <cui.longcan@chinaott.net>
