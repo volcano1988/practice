@@ -32,5 +32,6 @@
         <module>practice-leetcode</module>
         <module>practice-common</module>
         <module>practice-service</module>
+        <module>practice-designpattern</module>
     </modules>
 </project>
