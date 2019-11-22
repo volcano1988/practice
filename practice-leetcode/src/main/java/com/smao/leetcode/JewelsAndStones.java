@@ -26,4 +26,27 @@ public class JewelsAndStones {
         return nums;
     }
 
+    /**
+     * 牛逼大神写的99%的
+     * @param J
+     * @param S
+     * @return
+     */
+    public static int numJewelsInStonesDashen(String J, String S) {
+        char[] Jc = J.toCharArray();
+        char[] Sc = S.toCharArray();
+        int result = 0;
+        int[] indexMap = new int[150];
+        for (int h = 0; h < S.length(); h++) {
+            indexMap[Sc[h]] = indexMap[Sc[h]] + 1;
+        }
+        for (int i = 0; i < J.length(); i++) {
+            char a = Jc[i];
+            result = result + indexMap[a];
+        }
+        return result;
+    }
+    public static void main(String[] args) {
+        numJewelsInStones("aA","aAAbbbb");
+    }
 }
