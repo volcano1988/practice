@@ -1,7 +1,7 @@
 package com.cc.service.test;
 
 /**
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-11-04
  */
 public class Test {

@@ -4,7 +4,7 @@ package com.cc.leetcode;
 import com.cc.common.base.TreeNode;
 
 /**
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019/3/13
  */
 public class SymmetricTree {

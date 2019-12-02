@@ -3,7 +3,7 @@ package com.cc.designpattern;
 /**
  * 考虑到线程安全的写法
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-11-21
  */
 public class SingletonByThread {

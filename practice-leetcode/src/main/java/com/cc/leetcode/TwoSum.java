@@ -1,7 +1,7 @@
 package com.cc.leetcode;
 
 /**
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019/3/14
  */
 public class TwoSum {

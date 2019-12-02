@@ -3,7 +3,7 @@ package com.cc.leetcode;
 /**
  * Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019/3/12
  */
 public class MaximumSubarray {

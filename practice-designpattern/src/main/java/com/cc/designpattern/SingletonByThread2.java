@@ -3,7 +3,7 @@ package com.cc.designpattern;
 /**
  * 线程同步和效率兼并的singleton
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-11-21
  */
 public class SingletonByThread2 {
