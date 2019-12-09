@@ -19,4 +19,8 @@ public class ASCII {
             System.out.println((char) i + " == " + i);
         }
     }
+
+    private static void printAsciiBinary(){
+
+    }
 }
