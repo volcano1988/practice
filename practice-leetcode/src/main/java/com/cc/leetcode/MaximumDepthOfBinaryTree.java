@@ -11,26 +11,26 @@ import com.cc.common.base.TreeNode;
 public class MaximumDepthOfBinaryTree {
 
     public int maxDepth(TreeNode root) {
-        return maxThis(root,0);
+        return maxThis(root, 0);
     }
 
     private int maxThis(TreeNode root, int dep) {
-        if (root == null){
+        if (root == null) {
             return dep;
         }
         int left = dep;
         int right = dep;
         if (root.left != null) {
-            left+=left+1;
+            left += left + 1;
             left = maxThis(root.left, left);
         }
         if (root.right != null) {
-            right+=right+1;
+            right += right + 1;
             right = maxThis(root.right, right);
         }
         if (root.left == null && root.right == null) {
             return dep;
         }
-        return left>right?left:right;
+        return left > right ? left : right;
     }
 }
