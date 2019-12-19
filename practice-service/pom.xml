@@ -10,7 +10,7 @@
 
     <artifactId>practice-service</artifactId>
     <packaging>pom</packaging>
-
+    
     <modules>
         <module>practice-service-test</module>
     </modules>
