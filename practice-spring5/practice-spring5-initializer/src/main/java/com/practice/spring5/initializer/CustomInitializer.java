@@ -14,4 +14,8 @@ public class CustomInitializer implements ApplicationContextInitializer {
     public void initialize(ConfigurableApplicationContext applicationContext) {
 
     }
+
+    public void mysqlInitialze(){
+//        practice@2019
+    }
 }
