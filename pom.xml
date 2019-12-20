@@ -41,5 +41,6 @@
         <module>practice-service</module>
         <module>practice-designpattern</module>
         <module>practice-spring5</module>
+        <module>practice-springboot</module>
     </modules>
 </project>
