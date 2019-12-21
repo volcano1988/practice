@@ -1,4 +1,4 @@
-package com.smao.leetcode;
+package com.smao.leetcode.stack;
 
 /**
  * 数组式链表

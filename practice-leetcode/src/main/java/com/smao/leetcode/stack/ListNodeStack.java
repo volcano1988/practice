@@ -1,4 +1,4 @@
-package com.smao.leetcode;
+package com.smao.leetcode.stack;
 
 import com.cc.common.base.ListNode;
 

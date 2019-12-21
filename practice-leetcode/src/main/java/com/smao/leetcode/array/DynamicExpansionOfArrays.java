@@ -1,4 +1,4 @@
-package com.smao.leetcode;
+package com.smao.leetcode.array;
 
 /**
  * 数组动态扩容
