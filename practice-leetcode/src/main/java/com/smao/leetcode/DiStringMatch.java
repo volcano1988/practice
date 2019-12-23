@@ -1,4 +1,4 @@
-package com.smao;
+package com.smao.leetcode;
 
 import java.util.Arrays;
 
