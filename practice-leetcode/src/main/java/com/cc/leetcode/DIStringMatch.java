@@ -20,27 +20,18 @@ public class DIStringMatch {
     public int[] diStringMatch(String S) {
         int max = S.length();
         int min = 0;
-        int last = 0;
-        int[] x = new int[max+1];
+        int[] x = new int[S.length() + 1];
         for (int i = 0; i < S.toCharArray().length; i++) {
             if (S.toCharArray()[i] == 'I') {
                 x[i] = min;
                 min++;
-                if (i == S.toCharArray().length - 1) {
-                    last = min;
-                }
-            }
-            if (S.toCharArray()[i] == 'D') {
+            } else if (S.toCharArray()[i] == 'D') {
                 x[i] = max;
                 max--;
-                if (i == S.toCharArray().length - 1) {
-                    last = max;
-                }
             }
         }
-        x[S.length()+1] = last;
+        x[S.length()] = max;
         return x;
-
     }
 
     public static void main(String[] args) {
