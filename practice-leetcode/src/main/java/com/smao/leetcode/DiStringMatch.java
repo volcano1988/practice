@@ -54,6 +54,6 @@ public class DiStringMatch {
         return result;
     }
     public static void main(String[] args) {
-        System.out.print(Arrays.toString(diStringMatch("IDID")));
+        System.out.print(System.currentTimeMillis());
     }
 }
