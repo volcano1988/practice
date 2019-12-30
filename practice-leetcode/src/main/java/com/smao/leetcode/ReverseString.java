@@ -29,7 +29,6 @@ public class ReverseString {
             s[i] = s[s.length-i-1];
             s[s.length-i-1] = t;
         }
-        s = new char[s.length];
     }
     public static void main(String[] args) {
         char[] c = new char[]{'h','e','l','l','o'};
