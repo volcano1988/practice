@@ -11,7 +11,7 @@ import com.cc.common.base.ListNode;
 public class ReverseLinkedList {
 
     public ListNode reverseList(ListNode head) {
-        if (head!=null){
+        if (head!=null&&head.next!=null){
             ListNode node = reverseList(head.next);
             head.next.next = head;
             head.next = null;
