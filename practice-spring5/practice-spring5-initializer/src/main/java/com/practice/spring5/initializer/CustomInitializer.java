@@ -6,7 +6,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 /**
  * 自定义bean加载器
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-12-18
  */
 public class CustomInitializer implements ApplicationContextInitializer {

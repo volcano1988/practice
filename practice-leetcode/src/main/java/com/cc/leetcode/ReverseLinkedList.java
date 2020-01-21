@@ -5,7 +5,7 @@ import com.cc.common.base.ListNode;
 /**
  * 反转一个单链表。
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2020-01-16
  */
 public class ReverseLinkedList {

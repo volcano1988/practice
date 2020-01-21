@@ -1,7 +1,7 @@
 package com.common;
 
 /**
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2020-01-09
  */
 public class CustomFunctionImplement implements CustomFunction {

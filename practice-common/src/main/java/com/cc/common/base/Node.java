@@ -3,7 +3,7 @@ package com.cc.common.base;
 import java.util.List;
 
 /**
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-12-16
  */
 public class Node {

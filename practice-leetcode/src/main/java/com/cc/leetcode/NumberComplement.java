@@ -8,7 +8,7 @@ package com.cc.leetcode;
  * 给定的整数保证在32位带符号整数的范围内。
  * 你可以假定二进制数不包含前导零位。
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2020-01-03
  */
 public class NumberComplement {
