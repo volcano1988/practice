@@ -10,7 +10,7 @@ import java.util.Arrays;
  * 输入：[-4,-1,0,3,10]
  * 输出：[0,1,9,16,100]
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-12-17
  */
 public class SquaresOfASortedArray {

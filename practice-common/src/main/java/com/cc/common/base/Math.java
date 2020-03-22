@@ -3,7 +3,7 @@ package com.cc.common.base;
 /**
  * 基本算法
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-12-11
  */
 public class Math {

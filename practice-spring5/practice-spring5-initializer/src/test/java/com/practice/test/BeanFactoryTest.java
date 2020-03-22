@@ -9,7 +9,7 @@ import org.springframework.core.io.Resource;
 /**
  * 显示调用bean工厂加载测试
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-12-23
  */
 public class BeanFactoryTest {

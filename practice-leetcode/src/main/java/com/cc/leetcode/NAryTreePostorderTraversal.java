@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 给定一个 N 叉树，返回其节点值的后序遍历。
  *
- * @author cuilongcan <cui.longcan@chinaott.net>
+ * @author cuilongcan
  * @create 2019-12-16
  */
 public class NAryTreePostorderTraversal {
