@@ -1,4 +1,4 @@
-package com.cc.thread;
+package com.cc.juc.thread;
 
 /**
  * 线程状态及方法总结
