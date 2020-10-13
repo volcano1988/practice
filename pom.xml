@@ -38,10 +38,9 @@
     <modules>
         <module>practice-leetcode</module>
         <module>practice-common</module>
-        <module>practice-spring</module>
         <module>practice-designpattern</module>
         <module>practice-springboot</module>
         <module>practice-se</module>
-        <module>practice-thread</module>
+        <module>practice-juc</module>
     </modules>
 </project>

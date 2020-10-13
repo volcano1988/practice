@@ -1,7 +1,4 @@
-package com.cc.thread;
-
-import java.util.concurrent.atomic.AtomicInteger;
-import java.util.concurrent.atomic.AtomicIntegerArray;
+package com.cc.juc.lock;
 
 /**
  * 保证线程可见性
@@ -16,6 +13,5 @@ public class VolatileExample1 {
         Thread t1 = new Thread("t1");
 
         Thread t2 = new Thread("t2");
-        AtomicIntegerArray
     }
 }

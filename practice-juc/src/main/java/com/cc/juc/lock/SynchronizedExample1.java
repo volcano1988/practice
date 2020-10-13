@@ -1,4 +1,4 @@
-package com.cc.thread;
+package com.cc.juc.lock;
 
 /**
  *
