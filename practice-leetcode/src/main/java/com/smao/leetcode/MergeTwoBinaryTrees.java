@@ -1,6 +1,6 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.TreeNode;
+import com.practice.common.base.TreeNode;
 
 /**
  * 给定两个二叉树，想象当你将它们中的一个覆盖到另一个上时，两个二叉树的一些节点便会重叠。

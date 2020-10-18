@@ -1,6 +1,6 @@
 package com.cc.leetcode;
 
-import com.cc.common.base.TreeNode;
+import com.practice.common.base.TreeNode;
 
 /**
  * @author cuilongcan

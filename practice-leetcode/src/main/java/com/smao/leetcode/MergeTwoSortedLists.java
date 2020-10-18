@@ -1,8 +1,6 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.ListNode;
-
-import java.util.List;
+import com.practice.common.base.ListNode;
 
 /**
  * 21. 合并两个有序链表

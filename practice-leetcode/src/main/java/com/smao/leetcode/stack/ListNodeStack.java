@@ -1,6 +1,6 @@
 package com.smao.leetcode.stack;
 
-import com.cc.common.base.ListNode;
+import com.practice.common.base.ListNode;
 
 /**
  * 链表实现栈

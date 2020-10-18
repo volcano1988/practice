@@ -1,6 +1,6 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.CustomFunction;
+import com.practice.common.base.CustomFunction;
 
 import java.util.ArrayList;
 import java.util.List;

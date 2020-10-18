@@ -1,6 +1,6 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.TreeNode;
+import com.practice.common.base.TreeNode;
 
 /**
  * 翻转一棵二叉树。

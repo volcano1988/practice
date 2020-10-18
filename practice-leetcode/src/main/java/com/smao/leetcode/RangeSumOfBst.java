@@ -1,6 +1,6 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.TreeNode;
+import com.practice.common.base.TreeNode;
 
 /**
  * 938. 二叉搜索树的范围和

@@ -1,6 +1,6 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.ListNode;
+import com.practice.common.base.ListNode;
 
 /**
  * 206. 反转链表

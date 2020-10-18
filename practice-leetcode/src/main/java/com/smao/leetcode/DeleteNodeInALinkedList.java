@@ -1,6 +1,6 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.ListNode;
+import com.practice.common.base.ListNode;
 
 /**
  * 237. 删除链表中的节点
