@@ -1,6 +1,6 @@
 package com.cc.leetcode;
 
-import com.cc.common.base.TreeNode;
+import com.practice.common.base.TreeNode;
 
 /**
  * 给定二叉搜索树（BST）的根节点和一个值。

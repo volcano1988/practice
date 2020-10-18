@@ -1,12 +1,10 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.Node;
-import com.cc.common.base.TreeNode;
+import com.practice.common.base.Node;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Stack;
 
 /**
  * 给定一个 N 叉树，返回其节点值的后序遍历。

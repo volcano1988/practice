@@ -1,6 +1,6 @@
 package com.cc.leetcode;
 
-import com.cc.common.base.ListNode;
+import com.practice.common.base.ListNode;
 
 /**
  * 反转一个单链表。

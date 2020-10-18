@@ -1,6 +1,6 @@
 package com.cc.leetcode;
 
-import com.cc.common.base.Node;
+import com.practice.common.base.Node;
 
 import java.util.LinkedList;
 import java.util.List;

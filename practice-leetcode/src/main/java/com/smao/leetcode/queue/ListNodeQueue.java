@@ -1,6 +1,6 @@
 package com.smao.leetcode.queue;
 
-import com.cc.common.base.ListNode;
+import com.practice.common.base.ListNode;
 
 /**
  * 用链表实现一个队列

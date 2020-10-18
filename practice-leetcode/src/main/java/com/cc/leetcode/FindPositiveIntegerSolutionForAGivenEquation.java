@@ -1,6 +1,6 @@
 package com.cc.leetcode;
 
-import com.common.CustomFunction;
+import com.practice.leetcode.common.CustomFunction;
 
 import java.util.List;
 

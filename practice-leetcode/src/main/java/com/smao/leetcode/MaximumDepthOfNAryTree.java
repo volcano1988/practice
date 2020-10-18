@@ -1,10 +1,9 @@
 package com.smao.leetcode;
 
-import com.cc.common.base.Node;
+import com.practice.common.base.Node;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Stack;
 
 /**
  * 给定一个 N 叉树，找到其最大深度。

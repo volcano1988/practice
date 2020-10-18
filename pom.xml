@@ -22,6 +22,7 @@
         <java.version>1.8</java.version>
         <springboot.version>2.2.0.RELEASE</springboot.version>
         <junit.version>4.11</junit.version>
+        <jol.version>0.9</jol.version>
     </properties>
 
     <dependencyManagement>
@@ -31,6 +32,12 @@
                 <artifactId>junit</artifactId>
                 <version>${junit.version}</version>
                 <scope>test</scope>
+            </dependency>
+            <!--java对象布局工具包-->
+            <dependency>
+                <groupId>org.openjdk.jol</groupId>
+                <artifactId>jol-core</artifactId>
+                <version>${jol.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
